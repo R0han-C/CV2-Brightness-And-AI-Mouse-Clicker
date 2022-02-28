@@ -1,4 +1,4 @@
-# Brightness Control With Gesture and Virtual Mouse Using Open-CV
+# Brightness Control With Gesture and A.I. Virtual Mouse Using Open-CV
 
 # Simple OneFile Operations using Open-CV.<br>
 1.Clone My Git<br>
